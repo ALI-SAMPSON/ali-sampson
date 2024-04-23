@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Sampson Awenbolimi</h1>
+<h1 align="center">👨‍💻 Hi there! I'm Ali Sampson Awenbolimi</h1>
 <h3 align="center">👨‍💻 Hi there! I'm [Your Name], a passionate mobile app developer with a knack for turning ideas into intuitive, user-friendly experiences. With [X] years of experience in the ever-evolving world of app development, I've honed my skills in crafting sleek, efficient, and engaging applications for both iOS and Android platforms.
 
 🚀 Throughout my career, I've been driven by a relentless pursuit of innovation, constantly seeking out new technologies and methodologies to enhance my craft. From conceptualization to deployment, I thrive on the challenges of bringing visions to life through code.</h3>
