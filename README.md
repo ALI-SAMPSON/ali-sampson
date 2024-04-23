@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-sampson" alt="ali-sampson" /></a> </p>
 
-- 🔭 I’m currently working on **Physiotherapy booking app**
+- 🔭 I’m currently working on **Flight booking app**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-sampson](https://github.com/ali-sampson)
 
-- 💬 Ask me about **Java, Kotlin, Flutter**
+- 👨‍💻 All of my live projects are available at [https://my-portfolio-website-c9d9c.web.app/](https://my-portfolio-website-c9d9c.web.app/)
+
+- 💬 Ask me about **Java, Kotlin, Javascript, Dart and Flutter**
 
 - 📫 How to reach me **alisampson2@gmail.com**
 
